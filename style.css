@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.div_speed_img,.div_volume_img{
+    width: 200px;
+    height: 200px;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.title{
+    color: white;
+    height: 90px;
+    font-size: 20px;
+    background-color: blueviolet;
+    margin-top: 0px;
+}
+.play{
+    height: 50px;
+    width: 100px;
+    font-size: 30px;
+}
+canvas{
+    border: 8px white ridge;
+    margin-top: 10px;
+    border-radius: 10px;
+}
